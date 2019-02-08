@@ -21,7 +21,11 @@
             <div class="card-body">
                 <h5 class="card-title">Food statistics</h5>
                 Here you can find out everything about your meals
+<<<<<<< HEAD
                 <br> <br><a href="#" class="btn btn-secondary text-center">Interesting!</a>
+=======
+                <br> <br><a href="foodStat.php" target="_blank" class="btn btn-secondary text-center">Interesting!</a>
+>>>>>>> Added search feature
             </div>
         </div>
     </div>
