@@ -1,7 +1,7 @@
 <?php include "header.php"; ?>
 <div class="jumbotron jumbotron-fluid">
     <div class="container text-center">
-         <img src="http://www.management.org.ua/wp-content/uploads/2017/10/159186-636190605336661639-16x9.jpg" class="img-fluid col-md-3 " alt="">
+         <img src="http://www.management.org.ua/wp-content/uploads/2017/10/159186-636190605336661639-16x9.jpg" class="img-fluid col-md-6" alt="">
         <h1 class="display-3">Fluid jumbo heading</h1>
         <p class="lead">Jumbo helper text</p>
         <hr class="my-2">
@@ -21,7 +21,7 @@
             <div class="card-body">
                 <h5 class="card-title">Food statistics</h5>
                 Here you can find out everything about your meals
-                <br> <br><a href="fatCalculator.php" class="btn btn-secondary text-center">Interesting!</a>
+                <br> <br><a href="#" class="btn btn-secondary text-center">Interesting!</a>
             </div>
         </div>
     </div>
@@ -31,7 +31,7 @@
                 <div class="card-body">
                         <h5 class="card-title">Fat calculator</h5>
                        This calculator can help you to find your health parameters
-                        <br> <br><a href="#" class="btn btn-secondary text-center">Awersome!</a>
+                        <br> <br><a href="fatCalculator.php" class="btn btn-secondary text-center">Awersome!</a>
 
                 </div>
             </div>
